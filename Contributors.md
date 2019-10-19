@@ -2,6 +2,9 @@
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
 
+- [Abdul Rohman](https://github.com/4bdulRohman)
+
+
 - [Rizky Tri Sulistyo](https://github.com/rizkytrisulistyo)
 
 - [Naufal Yukafi](https://github.com/naufalyukafi)
