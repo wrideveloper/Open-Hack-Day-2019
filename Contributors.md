@@ -2,6 +2,9 @@
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
 
+- [Choirul Andriansyah](https://github.com/ChoirulA)
+
+
 - [Meuti Zari](https://github.com/AikaMinami)
 
 
@@ -33,3 +36,4 @@
 - [Faris Adlan A](https://github.com/farisdx66)
 
 - [Ardan Anjung Kusuma](https://github.com/ardananjungkusuma)
+
