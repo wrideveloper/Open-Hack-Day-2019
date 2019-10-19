@@ -1,6 +1,9 @@
 # Contributors
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
+
+- [Anjas Indarto](https://github.com/indartoanjas)
+
 - [Dany Alfiyandi](https://github.com/daf10)
 
 - [Ivan Abdurrafie](https://github.com/ivanabdurrafie)
@@ -25,6 +28,7 @@
 - [Ridlo](https://github.com/naufalyukafi)
 
 - [Yazeed Qholili Arifin](https://github.com/pazcalll)
+ 
 
 - [Muhammad Nur Amin](https://github.com/muhnuramin)
 
