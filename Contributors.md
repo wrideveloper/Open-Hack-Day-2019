@@ -7,7 +7,6 @@
 
 
 
-- [Ivan Abdurrafie](https://github.com/ivanabdurrafie)
 
 
 - [Anjas Indarto](https://github.com/indartoanjas)
