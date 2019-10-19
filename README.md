@@ -24,16 +24,16 @@ yang mana "url yang telah anda salin" (tanpa tanda petik) adalah url ke reposito
 
 Contoh:
 ```
-git clone https://github.com/username-anda/first-contributions.git
+git clone https://github.com/wrideveloper/Open-Hack-Day-2019.git
 ```
-Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
+Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori Open-Hack-Day-2019 di GitHub ke komputer anda.
 
 ## 3. Membuat Cabang
 
 Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
 ```
-cd first-contributions
+cd Open-Hack-Day-2019
 ```
 Buat cabang dengan perintah `git checkout`:
 ```
