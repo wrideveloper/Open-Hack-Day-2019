@@ -2,8 +2,14 @@
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
 
+
 - [Irfan Rafif](https://github.com/mirfanrafif)
 
+
+
+- [Abiyyu Yafi](https://github.com/yafiabiyyu)
+
+- [Denny Nur Ramadhan](https://github.com/denuradhan)
 
 - [Risang Daniswara](https://github.com/Zwarzen)
 - [Li Shang](https://github.com/Zwarzen)
