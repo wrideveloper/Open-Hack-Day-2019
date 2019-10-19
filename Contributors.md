@@ -2,7 +2,9 @@
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
 
-- [Ichsan Ashiddiqi] (https://github.com/ichsanashiddiqi)
+- [Nabilah Argyanti](https://github.com/nargyanti)
+
+- [Ichsan Ashiddiqi](https://github.com/ichsanashiddiqi)
 
 - [Hilal Arsa Himawan](https://github.com/hilalarsa)
 
