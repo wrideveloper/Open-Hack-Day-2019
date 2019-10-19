@@ -2,6 +2,8 @@
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
 
+- [Rizky Tri Sulistyo](https://github.com/rizkytrisulistyo)
+
 - [Naufal Yukafi](https://github.com/naufalyukafi)
 - [Ridlo](https://github.com/naufalyukafi)
 
@@ -22,3 +24,4 @@
 - [Faris Adlan A](https://github.com/farisdx66)
 
 - [Ardan Anjung Kusuma](https://github.com/ardananjungkusuma)
+
