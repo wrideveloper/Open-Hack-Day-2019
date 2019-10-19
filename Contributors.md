@@ -2,6 +2,8 @@
 
 - [Muhammad Syafrizal](https://github.com/ikaru19)
 
+- [Yazeed Qholili Arifin](https://github.com/pazcalll)
+
 - [Muhammad Nur Amin](https://github.com/muhnuramin)
 
 - [Putra Prima Arhandi](https://github.com/siubie)
@@ -17,6 +19,4 @@
 - [Faris Adlan A](https://github.com/farisdx66)
 
 - [Ardan Anjung Kusuma](https://github.com/ardananjungkusuma)
-
-
 
