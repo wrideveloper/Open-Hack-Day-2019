@@ -59,3 +59,5 @@
 - [Ardan Anjung Kusuma](https://github.com/ardananjungkusuma)
 
 - [Greggy Gianini Firmansyah](https://github.com/bluohazard)
+
+- [Reza Rinaldi](https://github.com/rez4rinaldi)
