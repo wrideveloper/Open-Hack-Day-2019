@@ -60,4 +60,6 @@
 
 - [Greggy Gianini Firmansyah](https://github.com/bluohazard)
 
+- [Raman Singh](https://github.com/ramansingh189)
+
 - [Reza Rinaldi](https://github.com/rez4rinaldi)
