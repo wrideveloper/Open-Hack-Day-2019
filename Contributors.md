@@ -63,3 +63,5 @@
 - [Raman Singh](https://github.com/ramansingh189)
 
 - [Reza Rinaldi](https://github.com/rez4rinaldi)
+
+- [Dito Cahya Pratama](https://github.com/DitoCahyaPratama)
